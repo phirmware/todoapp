@@ -1,0 +1,26 @@
+.todo-container{
+    align-content: center;
+}
+
+#todo-title{
+    font-weight: bold;
+    margin: 5px;
+}
+
+#todo-input{
+    background: azure;
+    border: none;
+    border-radius: 5px;
+}
+
+li{
+    list-style: none;
+    margin: 5px;
+    padding: 5px;
+    background: lightblue;
+}
+
+.delete{
+    background: red;
+    border: none;
+}
